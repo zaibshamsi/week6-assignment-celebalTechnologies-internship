@@ -14,7 +14,7 @@ export const createCustomerController = async (req, res) => {
         }
 
         await customer.save()
-        return res.status(200).json({ message: "Talent saved", customer });
+        return res.status(200).json({ message: "Customer saved", customer });
     } catch (error) {
         console.error("Backend error:", error);
 
