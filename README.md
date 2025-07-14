@@ -1,2 +1,2 @@
-https://5kpmr8x5-8000.inc1.devtunnels.ms/ 
+https://week6-assignment-celebaltechnologies.onrender.com/
 Please use this link to see the assignment deployed 
